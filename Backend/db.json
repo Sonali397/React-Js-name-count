@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name" :"Sonali"
+    },
+    {
+      "id": 2,
+      "name" :"Khushi"
+    },
+    {
+      "id": 3,
+      "name" :"Deepanshi"
+    },
+    {
+      "id": 4,
+      "name" :"Rali"
+    },
+    {
+      "id": 5,
+      "name" :"Sushmika"
+    },
+    {
+      "id": 6,
+      "name" :"Deepanshi"
+    },
+    {
+      "id": 7,
+      "name" :"Rali"
+    },
+    {
+      "id": 8,
+      "name" :"Sushmika"
+    }
+  ]
+}
